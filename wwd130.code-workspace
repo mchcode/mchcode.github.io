@@ -7,5 +7,7 @@
 			"path": "..\\github-workbench"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "github-workbench"
+	}
 }
